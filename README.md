@@ -16,9 +16,9 @@ On Windows - Open a command prompt as administrator and the run the following co
 /////   export PATH=$PATH:/opt/WebDriver/bin >> ~/.profile    /////////////// for mac os and linux
  
 
-USAGE
-sudo pip install -r requirements.txt
-python wickedProton4edv2.54.py
+	USAGE
+	sudo pip install -r requirements.txt
+	python wickedProton4edv2.54.py
 You can use any password list but change its name to password.lst
 python wickedProton4edv2.54.py
    choose the browser (use appropiate web drivers for differnet browsers the given web driver works perfectly with chrome(ium) and firefox
